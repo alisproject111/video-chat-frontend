@@ -221,7 +221,7 @@ const SignUpPage = () => {
             <div className="flex-1 bg-gradient-to-br from-blue-600 via-purple-600 to-pink-600 p-8 lg:p-12 flex items-center justify-center">
               <div className="text-center text-white">
                 <div className="mb-8">
-                  <img src="/i.png" alt="Illustration" className="w-64 h-64 mx-auto object-contain" />
+                  <img src="/src/images/i.png" alt="Illustration" className="w-64 h-64 mx-auto object-contain" />
                 </div>
                 <h2 className="text-3xl font-bold mb-4">Connect with language partners</h2>
                 <p className="text-blue-100 text-lg">
